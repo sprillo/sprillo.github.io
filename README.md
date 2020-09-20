@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/sprillo/sprillo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a second year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/). I am broadly interested in Machine Learning and Computational Biology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
 
-### Markdown
+**Sebastian Prillo**<sup>\*</sup>, Julian Eisenschlos<sup>\*</sup> [SoftSort: A Continuous Relaxation for the argsort Operator](https://arxiv.org/abs/2006.16038), *ICML 2020* [Code](https://github.com/sprillo/softsort)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Sebastian Prillo** [An elementary view on factorization machines](https://dl.acm.org/doi/abs/10.1145/3109859.3109892), *RecSys 2017*
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sprillo/sprillo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[\*] Equal contribution
