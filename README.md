@@ -1,6 +1,6 @@
 ## About
 
-I am a second year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/). I am broadly interested in Machine Learning and Computational Biology.
+I am a third year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/). I am broadly interested in Machine Learning and Computational Biology.
 
 ## Publications
 
