@@ -1,6 +1,9 @@
 ## About
 
-I am a fourth year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/). I work on mathematical and computational biology. More specifically, I work at the intersection of single-cell biology and statistical phylogenetics, developing statistical models and scalable inference algorithms to analyze large single-cell lineage tracing datasets.
+I am a fourth year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/).
+Broadly speaking, I work on mathematical and computational biology.
+More specifically, I am interested in statistical phylogenetics and its intersection with single-cell biology.
+Recently, I have been working on branch length estimation for single-cell phylogenies and on rate matrix estimation, with a focus on scalability.
 
 ## Publications
 
