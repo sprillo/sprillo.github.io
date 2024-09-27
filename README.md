@@ -1,6 +1,6 @@
 ## About
 
-I am a fifth year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/).
+I am a sixth year PhD student in the department of Electrical Engineering and Computer Science at UC Berkeley, advised by [Yun S. Song](http://people.eecs.berkeley.edu/~yss/) and [Nir Yosef](https://niryosef.wordpress.com/group/).
 Broadly speaking, I work on mathematical and computational biology.
 More specifically, I am interested in statistical phylogenetics and its intersection with single-cell biology.
 Two key areas I am interested in are protein evolution and cancer evolution.
