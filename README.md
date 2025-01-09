@@ -11,6 +11,8 @@ The best example of this is my work on [CherryML](https://rdcu.be/dfGuF) for rat
 
 ## Publications
 
+**Sebastian Prillo**<sup>\*</sup>, Wilson Wu<sup>\*</sup>, Yun S. Song [Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction](https://openreview.net/forum?id=H7mENkYB2J), *NeurIPS 2024*
+
 **Sebastian Prillo**, Yun Deng, Pierre Boyeau, Xingyu Li, Po-Yen Chen, Yun S. Song [CherryML: scalable maximum likelihood estimation of phylogenetic models](https://rdcu.be/dfGuF), *Nature Methods 2023* [Code](https://github.com/songlab-cal/CherryML)
 
 Khalil Ouardini, Romain Lopez, Matthew G Jones, **Sebastian Prillo**, Richard Zhang, Michael I Jordan, Nir Yosef [Reconstructing unobserved cellular states from paired single-cell lineage tracing and transcriptomics data](https://www.biorxiv.org/content/10.1101/2021.05.28.446021v1), *ICML 2021 Workshop in Computational Biology, Oral presentation*
